@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Richard</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Senior Frontend Developer | Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard&label=Profile%20views&color=0e75b6&style=flat" alt="richard" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://shinystar-0314.web.app](https://shinystar-0314.web.app)
 
 I am a Senior Frontend Developer | Fullstack Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP, Solidity, Rust, Golang, Ethereum, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.
 
